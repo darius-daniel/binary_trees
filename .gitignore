@@ -6,7 +6,8 @@
 *.ko
 *.obj
 *.elf
-*-node
+0-node
+1-left
 
 # Linker output
 *.ilk
