@@ -8,6 +8,9 @@
 *.elf
 0-node
 1-left
+2-right
+3-*
+4-leaf
 
 # Linker output
 *.ilk
